@@ -7,11 +7,11 @@
 
 # Why this, and why now
 
-# Australia's climate reporting moved from voluntary to mandatory in 2025. AASB S2 Climate-related Disclosures, modelled on IFRS S2 and built around the four TCFD pillars, was given legal force through amendments to the Corporations Act 2001, and applies to Group 1 entities for annual reporting periods beginning on or after 1 January 2025.Because Australian companies have different financial year ends, they enter the regime at different times. A company with a 31 December balance date has already published under AASB S2; one with a 30 June balance date is publishing its first mandatory report now; one with a 30 September balance date has not yet reached the end of its first mandatory period. The result is a transitional year in which mandatory and voluntary disclosure sit side by side across a single index.That makes this a useful moment to ask a simple question: how good is the disclosure actually is, and where is it weakest?
+Australia's climate reporting moved from voluntary to mandatory in 2025. AASB S2 Climate-related Disclosures, modelled on IFRS S2 and built around the four TCFD pillars, was given legal force through amendments to the Corporations Act 2001, and applies to Group 1 entities for annual reporting periods beginning on or after 1 January 2025.Because Australian companies have different financial year ends, they enter the regime at different times. A company with a 31 December balance date has already published under AASB S2; one with a 30 June balance date is publishing its first mandatory report now; one with a 30 September balance date has not yet reached the end of its first mandatory period. The result is a transitional year in which mandatory and voluntary disclosure sit side by side across a single index.That makes this a useful moment to ask a simple question: how good is the disclosure actually is, and where is it weakest?
 
 # Framework
 
-# Disclosure is scored against the eleven recommended disclosures of the TCFD framework, grouped under its four pillars.TCFD was chosen over alternatives such as GRI or SASB for three reasons. It is the structure AASB S2 is built on, so for Australian entities it is the operative regulatory architecture rather than an arbitrary lens. It has been carried into IFRS S1 and S2 following the TCFD's own dissolution in 2023, making it the current global baseline. And it has precedent in the academic literature as a scoring frame for disclosure indices.The pillars are deliberately broad; the eleven recommended disclosures beneath them are what make the framework operable. Scoring at the pillar level alone would compress fifty companies into too few distinct values to support comparison, and would make internal consistency checks impossible.
+Disclosure is scored against the eleven recommended disclosures of the TCFD framework, grouped under its four pillars.TCFD was chosen over alternatives such as GRI or SASB for three reasons. It is the structure AASB S2 is built on, so for Australian entities it is the operative regulatory architecture rather than an arbitrary lens. It has been carried into IFRS S1 and S2 following the TCFD's own dissolution in 2023, making it the current global baseline. And it has precedent in the academic literature as a scoring frame for disclosure indices.The pillars are deliberately broad; the eleven recommended disclosures beneath them are what make the framework operable. Scoring at the pillar level alone would compress fifty companies into too few distinct values to support comparison, and would make internal consistency checks impossible.
 
 # Item	Pillar	Recommended disclosure
 G_a	Governance	Board oversight of climate-related risks and opportunities
@@ -36,11 +36,12 @@ A binary present/absent scale would measure compliance rather than quality: a co
 
 # Sample
 
-# Constituents of the S&P/ASX 50 as at 14 August 2026, taken from the daily holdings disclosure of the State Street SPDR S&P/ASX 50 ETF (ASX: SFY), the only ETF replicating the index. Cash and SPI 200 index futures were excluded as fund cash management rather than index constituents, leaving n = 50.
+Constituents of the S&P/ASX 50 as at 14 August 2026, taken from the daily holdings disclosure of the State Street SPDR S&P/ASX 50 ETF (ASX: SFY), the only ETF replicating the index. Cash and SPI 200 index futures were excluded as fund cash management rather than index constituents, leaving n = 50.
 
-# The index is compiled by S&P Dow Jones Indices and reviewed quarterly, so membership is point-in-time: roughly a fifth of constituents changed over the twelve months to August 2026. The source file is archived in data/raw/ so the sample can be reconstructed exactly, independent of whether the original remains available.
+The index is compiled by S&P Dow Jones Indices and reviewed quarterly, so membership is point-in-time: roughly a fifth of constituents changed over the twelve months to August 2026. The source file is archived in data/raw/ so the sample can be reconstructed exactly, independent of whether the original remains available.
 
-# Four constituents are incorporated outside Australia and may fall outside the AASB S2 regime. These are flagged in companies.csv and treated as a separate group in the analysis rather than dropped.
+
+Four constituents are incorporated outside Australia and may fall outside the AASB S2 regime. These are flagged in companies.csv and treated as a separate group in the analysis rather than dropped.
 
 # Repository structure
 ├── codebook.md                     Scoring criteria for each of the eleven items
