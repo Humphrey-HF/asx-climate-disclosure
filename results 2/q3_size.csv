@@ -1,0 +1,3 @@
+test,statistic,p_value,note
+"Spearman rho, weight vs total",0.5159779478374781,0.0001254397894576621,preferred: weight is skewed and scores are ordinal
+"Pearson r, log10(weight) vs total",0.46977209601827463,0.0005775612519885747,"index weight proxies float-adjusted market cap, not market cap"
