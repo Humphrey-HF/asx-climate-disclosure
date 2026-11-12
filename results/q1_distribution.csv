@@ -1,0 +1,15 @@
+,value
+n,50.0
+possible_max,22.0
+mean,16.4
+median,17.5
+sd,4.0708019567928595
+min,5.0
+max,22.0
+iqr,5.0
+pct_of_maximum,74.54545454545453
+at_ceiling,4.0
+at_floor,0.0
+skewness,-0.7877102221808704
+excess_kurtosis,0.016586182630007773
+shapiro_p,0.007387104719914521

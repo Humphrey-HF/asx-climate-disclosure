@@ -1,0 +1,12 @@
+item,pillar,mean_score,n_score_0,n_score_1,n_score_2,n_below_maximum,pct_below_maximum,points_lost,pct_possible_points_lost
+M_a,Metrics & Targets,1.14,8,27,15,35,70.0,43,43.0
+S_c,Strategy,1.36,7,18,25,25,50.0,32,32.0
+G_b,Governance,1.4,0,30,20,30,60.0,30,30.0
+R_b,Risk Mgmt,1.4,2,26,22,28,56.00000000000001,30,30.0
+M_b,Metrics & Targets,1.46,1,25,24,26,52.0,27,27.0
+S_a,Strategy,1.52,0,24,26,24,48.0,24,24.0
+R_a,Risk Mgmt,1.56,2,18,30,20,40.0,22,22.0
+G_a,Governance,1.62,0,19,31,19,38.0,19,19.0
+S_b,Strategy,1.62,2,15,33,17,34.0,19,19.0
+R_c,Risk Mgmt,1.64,0,18,32,18,36.0,18,18.0
+M_c,Metrics & Targets,1.68,4,8,38,12,24.0,16,16.0

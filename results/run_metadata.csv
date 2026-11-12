@@ -1,0 +1,11 @@
+,value
+workbook,asx50_coding_workbook_v2_2_auditable.xlsx
+workbook_sha256,995fcccfc555d1f0cc53d913a899e207f3e007f9a645f585d838286ad5e056e9
+python_version,3.12.13
+pandas_version,2.2.3
+numpy_version,2.3.5
+scipy_version,1.18.1
+matplotlib_version,3.11.1
+n_companies,50
+n_items,11
+n_source_records,550
